@@ -13,3 +13,4 @@
 * [Swann's couscous](swann-couscous.md)
 * [Bone-in ribeye](bone-in-ribeye.md)
 * [Flammekueche](flammekueche.md)
+* [Pâtes du guerrier / pâtes du seigneur](pates-du-guerrier.md)
