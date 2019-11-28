@@ -14,3 +14,4 @@
 * [Bone-in ribeye](bone-in-ribeye.md)
 * [Flammekueche](flammekueche.md)
 * [Pâtes du guerrier / pâtes du seigneur](pates-du-guerrier.md)
+* [Steak risotto](steak-risotto.md)
