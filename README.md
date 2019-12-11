@@ -15,3 +15,7 @@
 * [Flammekueche](flammekueche.md)
 * [Pâtes du guerrier / pâtes du seigneur](pates-du-guerrier.md)
 * [Steak risotto](steak-risotto.md)
+* [Honey mustard rabbit-figs](honey-mustard-rabbit-figs.md)
+* [Rice n' beans](rice-n-beans.md)
+* [Rice n' eggs](rice-n-eggs.md)
+* [Risotto lardons](risotto-lardons.md)
