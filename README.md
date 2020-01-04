@@ -4,6 +4,7 @@
 
 ## 📖 Notes
 
+* [Health](health.md)
 * [Crêpes](crepes.md)
 * [Tartiflette](tartiflette.md)
 * [Raclette](raclette.md)
