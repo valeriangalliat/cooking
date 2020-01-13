@@ -22,6 +22,7 @@ performance.
 * Brussels sprouts
 * Spinach
 * Black beans
+* Green beans
 * Lentils
 * Asparagus
 * Bananas
@@ -30,3 +31,5 @@ performance.
 * Grapes?
 * Eggs
 * Fish
+* Mushrooms?
+* Red cabbage

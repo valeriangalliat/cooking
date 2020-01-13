@@ -19,4 +19,7 @@
 * [Honey mustard rabbit-figs](honey-mustard-rabbit-figs.md)
 * [Rice n' beans](rice-n-beans.md)
 * [Rice n' eggs](rice-n-eggs.md)
+* [Rice n' spinach](rice-n-spinach.md)
 * [Risotto lardons](risotto-lardons.md)
+* [Omelette mushrooms onions](omelette-mushrooms-onions.md)
+* [Fried Brussels sprouts and lardons](fried-brussels-sprouts-and-lardons.md)
