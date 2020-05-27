@@ -2,6 +2,15 @@
 
 > 📝 Cooking notes.
 
+Recipes I've tried and/or adapted or even "created", written in good
+Frenglish with some tips or notes about quantities and other logistic
+details.
+
+Doesn't need to be public, but hey, if that prevents me to make sure I'm
+logged on GitHub when I'm at the cheese shop and want to check how much
+meules of cheese I need to get for my raclette for 8 people on the
+terrasse, that already makes it worthwhile.
+
 ## 📖 Notes
 
 * [Health](health.md)
