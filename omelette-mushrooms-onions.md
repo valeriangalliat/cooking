@@ -2,5 +2,6 @@
 
 ## Preparation
 
-* Fry onions and sliced mushrooms
-* Add beaten up eggs, seasoned with salt and pepper
+Fry onions and sliced mushrooms.
+
+Add beaten up eggs, seasoned with salt and pepper.
