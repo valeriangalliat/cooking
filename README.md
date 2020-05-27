@@ -9,7 +9,7 @@
 * [Tartiflette](tartiflette.md)
 * [Raclette](raclette.md)
 * [Fondue](fondue.md)
-* [Kale salad](kale-salad.md)
+* [Cash's Kale salad](cash-kale-salad.md)
 * [Random chicken curry](random-chicken-curry.md)
 * [Swann's couscous](swann-couscous.md)
 * [Bone-in ribeye](bone-in-ribeye.md)
