@@ -32,3 +32,4 @@ terrasse, that already makes it worthwhile.
 * [Risotto lardons](risotto-lardons.md)
 * [Omelette mushrooms onions](omelette-mushrooms-onions.md)
 * [Fried Brussels sprouts and lardons](fried-brussels-sprouts-and-lardons.md)
+* [🥞 Alex's pancakes solidité](alex-pancakes-solidite.md)
