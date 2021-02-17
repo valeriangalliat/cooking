@@ -1,4 +1,4 @@
-# Rice & eggs
+# 🥚 Rice & eggs
 
 ## Ingredients
 

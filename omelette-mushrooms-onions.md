@@ -1,4 +1,4 @@
-# Omelette with mushrooms and onions
+# 🍄 Omelette with mushrooms and onions
 
 ## Preparation
 

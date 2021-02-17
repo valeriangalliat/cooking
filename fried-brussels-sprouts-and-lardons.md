@@ -1,4 +1,4 @@
-# Fried Brussels sprouts and lardons
+# 🥬 Fried Brussels sprouts and lardons
 
 ## Preparation
 

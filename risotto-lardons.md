@@ -1,4 +1,4 @@
-# Risotto aux lardons
+# 🐖 Risotto aux lardons
 
 For 3 thick meals or 4 maybe a bit too small meals...
 

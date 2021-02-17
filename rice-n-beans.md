@@ -1,4 +1,4 @@
-# Rice & beans
+# 🍚 Rice & beans
 
 ## Ingredients
 

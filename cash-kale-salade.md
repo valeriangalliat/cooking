@@ -1,4 +1,4 @@
-# 🥬 Cash's Kale salad
+# 🥗 Cash's Kale salad
 
 ## Ingredients
 

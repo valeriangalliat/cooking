@@ -1,4 +1,4 @@
-# Rice & spinach
+# 🥗 Rice & spinach
 
 ## Ingredients
 

@@ -1,4 +1,4 @@
-# Health
+# 🥬 Health
 
 List of foods to base most of my diet on for health and athletic
 performance.
@@ -10,12 +10,12 @@ performance.
 * Pasta
 * Rice
 * Couscous
-* Cereals?
-* Nuts?
+* Cereals
+* Nuts
 
 ## Proteins, vitamins
 
-* Nuts, dried fruits (trail mix style)?
+* Nuts, dried fruits (trail mix style)
 * Kale
 * Green pepper
 * Zucchini
@@ -31,5 +31,5 @@ performance.
 * Grapes?
 * Eggs
 * Fish
-* Mushrooms?
+* Mushrooms
 * Red cabbage
