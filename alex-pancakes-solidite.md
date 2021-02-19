@@ -11,7 +11,7 @@
 
 Smash the banana in its skin and juice it in a bowl.
 
-Add the eggs and the vanilla sugar.and blend it together.
+Add the eggs and the vanilla sugar and blend it together.
 
 Top up with a layer of oatmeal.
 
