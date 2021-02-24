@@ -34,3 +34,5 @@ terrasse, that already makes it worthwhile.
 * [🥬 Fried Brussels sprouts and lardons](fried-brussels-sprouts-and-lardons.md)
 * [🥞 Alex's pancakes solidité](alex-pancakes-solidite.md)
 * [🥥 Coconut chicken almond couscous](coconut-chicken-almond-couscous.md)
+* [🍍 Noemie's premium pineapple](noemie-premium-pineapple.md)
+* [🐑 Random mac and cheese](random-mac-and-cheese.md)
