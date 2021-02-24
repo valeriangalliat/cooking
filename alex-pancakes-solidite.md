@@ -21,3 +21,7 @@ Cook like pancakes.
 
 The solidity stack is made by stacking the pancakes and putting apple
 slices between each layer, topped up with maple syrup.
+
+## Val update
+
+For extra solidity, add peanut butter and chocolate chips to the dough.
