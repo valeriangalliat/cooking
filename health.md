@@ -1,7 +1,7 @@
 # 🥬 Health
 
 List of foods to base most of my diet on for health and athletic
-performance.
+performance, biased by my taste preferences.
 
 ## Carbs
 
@@ -9,6 +9,7 @@ performance.
 * Potatoes
 * Pasta
 * Rice
+* Quinoa
 * Couscous
 * Cereals
 * Nuts
@@ -28,7 +29,9 @@ performance.
 * Bananas
 * Grapefruits
 * Carrots
-* Grapes?
+* Grapes
+* Chicken
+* Turkey
 * Eggs
 * Fish
 * Mushrooms
