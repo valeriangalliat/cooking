@@ -25,3 +25,6 @@ slices between each layer, topped up with maple syrup.
 ## Val update
 
 For extra solidity, add peanut butter and chocolate chips to the dough.
+
+Another alternative I love is adding parm to the dough, and optionally
+topping up with Nutella.
