@@ -10,6 +10,9 @@ Based on [Marmiton's pâte à crêpes simple][marmiton] recipe.
 
 According to Marmiton, for 20 crêpes.
 
+**Note:** 20 crêpes is actually a lot of crêpes. This feeds 4 to 6
+people depending on the toppings, see [below](#notes).
+
 * 5 eggs
 * 500 g flour (4 cups)
 * 1 L milk
@@ -46,14 +49,14 @@ toppings, the number of people this can feed varies.
 For the record, 2 tarticrêpes, one crêpe with just cheese, and one sweet
 crêpe after was good for me.
 
-If it had been only cheese and sweet crêpes, I would likely have needed
+If it had been only cheese and sweet crêpes, I would have needed
 6 to 8 crêpes.
 
 This quantity for 20 crêpes was largely enough for 4 (there's a fair
 amount of leftover dough), so it feeds more like 6 people, provided we
 do 2 tarticrêpes each. If we didn't have that much toppings and stuck to
-just cheese and sweet crêpes, 20 crêpes would probably have been just
-enough for 3.
+just cheese and sweet crêpes, 20 crêpes would probably have been good
+for 3 or 4.
 
 Here a 400 g block of cheddar was perfect for 3 persons, with 2
 tarticrêpes each, but we really went hardcore on cheese and being more
