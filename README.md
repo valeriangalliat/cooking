@@ -19,7 +19,7 @@ terrasse, that already makes it worthwhile.
 * [🧀 Raclette](raclette.md)
 * [🧀 Fondue](fondue.md)
 * [🥗 Cash's Kale salad](cash-kale-salad.md)
-* [🍗 Random chicken curry](random-chicken-curry.md)
+* [🍛 Random curry](random-curry.md)
 * [🐐 Swann's couscous](swann-couscous.md)
 * [🥩 Bone-in ribeye](bone-in-ribeye.md)
 * [🍕 Flammekueche](flammekueche.md)
