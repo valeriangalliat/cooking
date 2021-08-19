@@ -36,3 +36,4 @@ terrasse, that already makes it worthwhile.
 * [🥥 Coconut chicken almond couscous](coconut-chicken-almond-couscous.md)
 * [🍍 Noemie's premium pineapple](noemie-premium-pineapple.md)
 * [🐑 Random mac and cheese](random-mac-and-cheese.md)
+* [🍔 Best burger](best-burger.md)
