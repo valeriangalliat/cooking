@@ -2,7 +2,7 @@
 
 ## Recipe
 
-Based on [Marmiton's pâte à crêpes simple][marmiton] recipe.
+Based on ["pâte à crêpes simple" on Marmiton][marmiton].
 
 [marmiton]: https://www.marmiton.org/recettes/recette_pate-a-crepes-simple_27121.aspx
 

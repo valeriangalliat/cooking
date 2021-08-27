@@ -2,7 +2,7 @@
 
 ## Recipe
 
-Based on [Marmiton's La vraie Tartiflette ][marmiton] recipe.
+Based on ["la vraie tartiflette" on Marmiton][marmiton].
 
 [marmiton]: https://www.marmiton.org/recettes/recette_la-vraie-tartiflette_17634.aspx
 

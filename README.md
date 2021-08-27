@@ -37,3 +37,4 @@ terrasse, that already makes it worthwhile.
 * [🍍 Noemie's premium pineapple](noemie-premium-pineapple.md)
 * [🐑 Random mac and cheese](random-mac-and-cheese.md)
 * [🍔 Best burger](best-burger.md)
+* [🍰 Fondant au chocolat](fondant-au-chocolat.md)
