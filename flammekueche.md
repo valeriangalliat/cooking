@@ -10,13 +10,13 @@
 * 1 thingie of yeast (about 8 g)
 * A couple spoons of olive oil
 * 1 teaspoon of salt
-* 150 mL of water
+* 150 ml of water
 
 ### Toppings
 
 * 2 onions
 * 400 g of lardons
-* 200 mL of crème fraîche
+* 200 ml of crème fraîche
 
 ## Preparation
 
