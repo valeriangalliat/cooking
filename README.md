@@ -38,3 +38,4 @@ terrasse, that already makes it worthwhile.
 * [🐑 Random mac and cheese](random-mac-and-cheese.md)
 * [🍔 Best burger](best-burger.md)
 * [🍰 Fondant au chocolat](fondant-au-chocolat.md)
+* [🍰 Royal](royal.md)
