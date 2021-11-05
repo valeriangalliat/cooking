@@ -9,6 +9,11 @@ It's made of 3 layers. From bottom to top, a succès aux amandes (the
 crunchy part), a praliné feuilleté (the thin crispy part in the middle)
 and finally a chocolate mousse.
 
+The Royal is a pretty complex and time consuming cake to make, that will
+require you to wash a lot of dishes. If you want a cake that tastes 80%
+as good for 20% of the work (and price), check out the [fondant au chocolat](fondant-au-chocolat.md)
+recipe! But if you're not here to make tradeoffs, keep on reading.
+
 ## Ingredients
 
 ### Succès aux amandes
