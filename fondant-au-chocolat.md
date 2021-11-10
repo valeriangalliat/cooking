@@ -16,8 +16,8 @@ Based on ["fondant au chocolat" on Marmiton][marmiton].
 
 Preheat 180 °C.
 
-Melt chocolate and butter together in a bowl or pot big enough to
-contain everything else.
+To minimize dishes, melt chocolate and butter together in a pot big
+enough to contain everything else.
 
 Separate eggs. If you don't want to wash too much dishes you can just
 put the yolks directly in the pot with the butter and chocolate.
@@ -30,3 +30,12 @@ already) and mix.
 Incorporate sugar and flour, then gently add the "snow" egg whites.
 
 Put in a cake pan and in the oven for 20 minutes.
+
+## Ultra lazy version (not fondant but still chocolat)
+
+To minimize dishes, melt chocolate and butter together in a pot big
+enough to contain everything else.
+
+Once melted, add the sugar, flour and eggs and mix everything.
+
+Bake for 20 minutes at 180 °C.
