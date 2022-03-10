@@ -25,7 +25,7 @@ terrasse, that already makes it worthwhile.
 * [🍕 Flammekueche](flammekueche.md)
 * [🍝 Pâtes du guerrier / pâtes du seigneur](pates-du-guerrier.md)
 * [🥩 Steak risotto](steak-risotto.md)
-* [🐇 Honey mustard rabbit-figs](honey-mustard-rabbit-figs.md)
+* [🐇 Honey mustard rabbit with figs](honey-mustard-rabbit-figs.md)
 * [🍚 Rice n' beans](rice-n-beans.md)
 * [🥚 Rice n' eggs](rice-n-eggs.md)
 * [🥗 Rice n' spinach](rice-n-spinach.md)
