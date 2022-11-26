@@ -21,6 +21,7 @@ terrasse, that already makes it worthwhile.
 * [🥗 Cash's Kale salad](cash-kale-salad.md)
 * [🍛 Random curry](random-curry.md)
 * [🐐 Swann's couscous](swann-couscous.md)
+* [🥘 Paella](paella.md)
 * [🥩 Bone-in ribeye](bone-in-ribeye.md)
 * [🍕 Flammekueche](flammekueche.md)
 * [🍝 Pâtes du guerrier / pâtes du seigneur](pates-du-guerrier.md)

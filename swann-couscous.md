@@ -4,6 +4,13 @@
 
 For many people.
 
+**Warning:** don't take "for many people" above lightly! The default
+quantities for this recipe can easily feed a family of 15 people, and
+you'll have leftovers for the next day.
+
+If you're just two, and want to eat couscous for the next couple days, I
+highly recommend at least _halving_ the quantities.
+
 * 2 onions
 * 2 green peppers
 * 2 red peppers
@@ -20,6 +27,10 @@ For many people.
 * Secret spice mix from Swann's aunt
 * Red chili powder
 * 500 g semoule
+
+**Note:** while not part of the original recipe, I personally _love_ to
+serve the couscous with merguez. They don't go in the big pot, I just
+grill them separately and add them on top. I _love_ merguez.
 
 ## Preparation
 
