@@ -39,3 +39,9 @@ enough to contain everything else.
 Once melted, add the sugar, flour and eggs and mix everything.
 
 Bake for 20 minutes at 180 °C.
+
+## Canada notes
+
+If using Baker's chocolate, take the semi-sweet (red) one. If using the
+unsweetened (blue) one, may want to add a bit more sugar, or could
+experiment with adding honey or maple syrup!
