@@ -45,3 +45,12 @@ Bake for 20 minutes at 180 °C.
 If using Baker's chocolate, take the semi-sweet (red) one. If using the
 unsweetened (blue) one, may want to add a bit more sugar, or could
 experiment with adding honey or maple syrup!
+
+## Ramekin version
+
+One day I didn't have enough eggs to make the whole cake, and ChatGPT
+told me I could just use half the ingredients and bake it in ramekins
+instead. Was dope.
+
+Actually ChatGPT didn't half the sugar and butter so maybe that's why it
+was so good? 😂
