@@ -42,3 +42,4 @@ terrasse, that already makes it worthwhile.
 * [🍰 Fondant au chocolat](fondant-au-chocolat.md)
 * [🍰 Royal](royal.md)
 * [🍷 Mom's filet migon de porc sauce porto](filet-mignon-porto.md)
+* [🫛 Edamame stylés](edamame-styles.md)
